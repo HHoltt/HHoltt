@@ -1,0 +1,35 @@
+[
+    {
+        "username": "oliver",
+        "birthday": "31/08/1999",
+        "email": "olivermontalvanm@gmail.com",
+        "gender": "male",
+        "firstname": "Oliver",
+        "lastname": "Montalván Morales",
+        "phone": "+50585540554",
+        "roles": [ "admin" ],
+        "password": "1234"
+    },
+    {
+        "username": "arlen",
+        "birthday": "06/09/2000",
+        "email": "arlenmontiel@hotmail.com",
+        "gender": "female",
+        "firstname": "Arlen Elieth",
+        "lastname": "Montiel López",
+        "phone": "+50512341234",
+        "roles": [ "manager" ],
+        "password": "1234"
+    },
+    {
+        "username": "kersy",
+        "birthday": null,
+        "email": null,
+        "gender": "female",
+        "firstname": "Kersy",
+        "lastname": "Espinoza",
+        "phone": null,
+        "roles": [ "seller" ],
+        "password": "1234"
+    }
+]

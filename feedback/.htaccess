@@ -1,0 +1,10 @@
+Options +FollowSymLinks -MultiViews -Indexes
+
+RewriteBase /
+
+RewriteEngine On
+#RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+#RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ server.php [L,QSA]

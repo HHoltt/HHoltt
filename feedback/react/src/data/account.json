@@ -1,0 +1,59 @@
+[
+    {
+        "bank": "BAC",
+        "canTransfer": true,
+        "canWithdraw": true,
+        "currency": "NIO",
+        "isWallet": false,
+        "label": "BAC Córdobas",
+        "number": "1301923019238",
+        "owner": {
+            "birthday": "31/08/1999",
+            "email": "olivermontalvanm@gmail.com",
+            "gender": "male",
+            "firstname": "Oliver",
+            "lastname": "Montalván Morales",
+            "phone": "+50585540554",
+            "roles": [ "admin" ]
+        },
+        "type": "asset"
+    },
+    {
+        "bank": null,
+        "canTransfer": false,
+        "canWithdraw": false,
+        "currency": "NIO",
+        "isWallet": true,
+        "label": "Efectivo Córdobas",
+        "number": null,
+        "owner": {
+            "birthday": "31/08/1999",
+            "email": "olivermontalvanm@gmail.com",
+            "gender": "male",
+            "firstname": "Oliver",
+            "lastname": "Montalván Morales",
+            "phone": "+50585540554",
+            "roles": [ "admin" ]
+        },
+        "type": "asset"
+    },
+    {
+        "bank": null,
+        "canTransfer": false,
+        "canWithdraw": false,
+        "currency": "USD",
+        "isWallet": true,
+        "label": "Efectivo Dólares",
+        "number": null,
+        "owner": {
+            "birthday": "31/08/1999",
+            "email": "olivermontalvanm@gmail.com",
+            "gender": "male",
+            "firstname": "Oliver",
+            "lastname": "Montalván Morales",
+            "phone": "+50585540554",
+            "roles": [ "admin" ]
+        },
+        "type": "asset"
+    }
+]

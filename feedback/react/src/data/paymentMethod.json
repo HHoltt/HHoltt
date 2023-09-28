@@ -1,0 +1,23 @@
+[
+    {
+        "feeCount": 1,
+        "frecuency": null,
+        "interest": 0,
+        "isCredit": false,
+        "label": "Contado"
+    },
+    {
+        "feeCount": 2,
+        "frecuency": "month",
+        "interest": 0.25,
+        "isCredit": true,
+        "label": "2 Meses Plazo (Mensual)"
+    },
+    {
+        "feeCount": 4,
+        "frecuency": "fortnight",
+        "interest": 0.10,
+        "isCredit": true,
+        "label": "2 Meses Plazo (Quincenal)"
+    }
+]

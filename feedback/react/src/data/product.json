@@ -1,0 +1,105 @@
+[
+    {
+        "color": null,
+        "estimatedWeight": null,
+        "label": "Camiseta",
+        "mainPicture": "https://picture.com",
+        "offerExpires": null,
+        "offerPrice": null,
+        "offerStart": null,
+        "pictures": [ 
+            { 
+                "url": "https://img.ltwebstatic.com/images3_spmp/2023/08/31/8d/1693462740769ca3a25f8243a95dc29b9edbf074aa_thumbnail_336x.webp", 
+                "main": true 
+            },
+            { "url": "https://picture2.com" } 
+        ],
+        "price": 9.99,
+        "provider": {
+            "contacts": [],
+            "country": "NI",
+            "fbPage": null,
+            "mainContact": null,
+            "name": "Gema Moda",
+            "shipping": "local",
+            "webpage": null
+        },
+        "providerPrice": 8.00,
+        "providerSku": "asdlkaskdllkj",
+        "size": "XL",
+        "sku": "lakjd019",
+        "stock": 0,
+        "targetGender": "female",
+        "unitMeasure": null,
+        "weight": [ 430, "g" ]
+    },
+    {
+        "color": null,
+        "estimatedWeight": null,
+        "label": "Camisa con diseño xD",
+        "mainPicture": "https://picture.com",
+        "offerExpires": null,
+        "offerPrice": 8.99,
+        "offerStart": null,
+        "pictures": [ 
+            { 
+                "url": "https://img.ltwebstatic.com/images3_spmp/2023/08/31/8d/1693462740769ca3a25f8243a95dc29b9edbf074aa_thumbnail_336x.webp", 
+                "main": true 
+            },
+            { "url": "https://picture2.com" } 
+        ],
+        "price": 9.99,
+        "provider": {
+            "contacts": [],
+            "country": "NI",
+            "fbPage": null,
+            "mainContact": null,
+            "name": "Gema Moda",
+            "shipping": "local",
+            "webpage": null
+        },
+        "providerPrice": 8.00,
+        "providerSku": "asdlkaskdllkj",
+        "size": "XL",
+        "sku": "lakjd019",
+        "stock": 0,
+        "targetGender": "female",
+        "unitMeasure": null,
+        "weight": [ 430, "g" ],
+        "tags": [ "Algodón", "SX", "Syncaetc", "Ukraine", "Hey" ]
+    },
+    {
+        "color": null,
+        "estimatedWeight": null,
+        "label": "Camisetaasdklj alkdj alkdj nlakjdnlakj nlkjsdnlk jnsldk",
+        "mainPicture": "https://picture.com",
+        "offerExpires": null,
+        "offerPrice": null,
+        "offerStart": null,
+        "pictures": [ 
+            { 
+                "url": "https://img.ltwebstatic.com/images3_spmp/2023/08/31/8d/1693462740769ca3a25f8243a95dc29b9edbf074aa_thumbnail_336x.webp", 
+                "main": true 
+            },
+            { "url": "https://picture2.com" } 
+        ],
+        "price": 9.99,
+        "provider": {
+            "contacts": [],
+            "country": "NI",
+            "fbPage": null,
+            "mainContact": null,
+            "name": "Gema Moda",
+            "shipping": "local",
+            "webpage": null
+        },
+        "providerPrice": 8.00,
+        "providerSku": "asdlkaskdllkj",
+        "size": "XL",
+        "sku": "lakjd019",
+        "stock": 0,
+        "targetGender": "female",
+        "unitMeasure": null,
+        "weight": [ 430, "g" ]
+    }
+]

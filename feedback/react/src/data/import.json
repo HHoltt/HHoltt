@@ -1,0 +1,52 @@
+[
+    {
+        "deliveredDate": "01/01/2023",
+        "dueDate": "01/01/2023",
+        "estimatedPrice": 40.00,
+        "estimatedWeight": [ 10, "lb" ],
+        "paid": true,
+        "price": 32.00,
+        "products": [{
+            "color": null,
+            "estimatedWeight": null,
+            "label": "Camiseta",
+            "mainPicture": "https://picture.com",
+            "offerExpires": null,
+            "offerPrice": null,
+            "offerStart": null,
+            "pictures": [ 
+                "https://picture.com",
+                "https://picture2.com" 
+            ],
+            "price": 9.99,
+            "provider": {
+                "contacts": [],
+                "country": "NI",
+                "fbPage": null,
+                "mainContact": null,
+                "name": "Gema Moda",
+                "shipping": "local",
+                "webpage": null
+            },
+            "providerPrice": 8.00,
+            "providerSku": "asdlkaskdllkj",
+            "size": "XL",
+            "sku": "lakjd019",
+            "stock": 0,
+            "targetGender": "female",
+            "unitMeasure": null,
+            "weight": [ 430, "g" ],
+
+            "received": false,
+            "damaged": false
+        }],
+        "provider": { "name": "AeroExpress" },
+        "transactions": [
+            {
+
+            }
+        ],
+        "type": "weight",
+        "weight": [ 8, "lb" ]
+    }
+]
